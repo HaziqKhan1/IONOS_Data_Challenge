@@ -1,0 +1,14 @@
+2024-07-05 15:52:52,794:INFO:Scheduler started...
+2024-07-05 15:53:03,549:INFO:Data preprocessing completed
+2024-07-05 15:53:03,551:INFO:Feature engineering completed
+2024-07-05 15:53:03,558:INFO:Data normalization completed
+2024-07-05 15:53:03,571:INFO:Database and table created, and all data loaded
+2024-07-05 15:53:03,571:INFO:Data syncing completed
+2024-07-05 15:53:03,571:INFO:ETL pipeline completed successfully!
+2024-07-05 15:53:51,215:INFO:Scheduler started...
+2024-07-05 15:54:03,004:INFO:Data preprocessing completed
+2024-07-05 15:54:03,006:INFO:Feature engineering completed
+2024-07-05 15:54:03,014:INFO:Data normalization completed
+2024-07-05 15:54:03,032:INFO:Deleted 1 records
+2024-07-05 15:54:03,034:INFO:Data syncing completed
+2024-07-05 15:54:03,034:INFO:ETL pipeline completed successfully!
